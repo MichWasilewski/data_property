@@ -1,0 +1,18 @@
+#Cel projektu
+Moim celem w tym projekcie jest przeanalizowanie sytuacji na rynku nieruchomości
+w Polsce i ustalenie progonozy czy nieruchomości będą drożeć lub tanieć. 
+
+#Informacje o danych
+Dane zostały zebrane z trzech portali otodom.pl olx.pl i gumtree.pl
+
+#Pozyskanie danych
+Dane zostały pozyskane za pomocą web-scrapping'u. Zostało do tego napisana 
+krótka funkcja z zastosowaniem dwóch biblitek "request" i "re".
+
+#Czyszczenie danych
+Do oczyszczenia danych zastosowano metody z bilbioteki Pandas.
+
+#Wizualizacja danych
+ggplot
+
+
